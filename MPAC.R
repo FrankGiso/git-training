@@ -20,3 +20,7 @@ data<-read.csv("validate-vars.txt", colClasses=column_classes)
 validdata<-data[data$Var %in% c("A","B","C","D"),]
 
 #Summing by ID
+
+
+
+flkdhflkhdflkhdflkhflksdhlkhlk
