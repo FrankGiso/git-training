@@ -22,5 +22,5 @@ validdata<-data[data$Var %in% c("A","B","C","D"),]
 #Summing by ID
 
 
-
+ssadadas
 flkdhflkhdflkhdflkhflksdhlkhlk
